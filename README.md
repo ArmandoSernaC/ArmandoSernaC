@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 
  <h1 align="center">Hi 👋, I'm Armando Serna</h1>
 <h3 align="center">A passionate code lover, also a science and technology enthusiast from Colombia</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/eVBnhsmKefa2an9x7">
+
 
 - 🔭 I’m currently working on [SINFONIA Uniandes](https://cinfonia.uniandes.edu.co/responsible-research/sinfonia-social-assistance-pepper-robot/)
 
