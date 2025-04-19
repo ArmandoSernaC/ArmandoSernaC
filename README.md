@@ -4,11 +4,13 @@
 <h3 align="center">A passionate code lover, also a science and technology enthusiast from Colombia</h3>
 
 
-- 🔭 I’m currently working on [SINFONIA Uniandes](https://cinfonia.uniandes.edu.co/responsible-research/sinfonia-social-assistance-pepper-robot/)
+<!--- 🔭 I’m currently working on [SINFONIA Uniandes](https://cinfonia.uniandes.edu.co/responsible-research/sinfonia-social-assistance-pepper-robot/)
 
 - 🌱 I’m currently learning **Assembly, C++**
 
-- 💬 Ask me about **Python, MERN**
+--->
+
+- 💬 Ask me about **Python, Java, JS**
 
 - 📫 How to reach me **aa.serna10@uniandes.edu.co**
 
